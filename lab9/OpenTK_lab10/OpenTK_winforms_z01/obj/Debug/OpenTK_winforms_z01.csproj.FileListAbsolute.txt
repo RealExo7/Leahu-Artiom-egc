@@ -1,0 +1,3 @@
+C:\Users\artio\OneDrive\Desktop\Leahu Artiom\lab9\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.AssemblyReference.cache
+C:\Users\artio\OneDrive\Desktop\Leahu Artiom\lab9\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.OpenGLWnd.resources
+C:\Users\artio\OneDrive\Desktop\Leahu Artiom\lab9\OpenTK_lab10\OpenTK_winforms_z01\obj\Debug\OpenTK_winforms_z01.csproj.GenerateResource.cache
